@@ -4,6 +4,8 @@
 
 NER model for identifying Actors, Functions, and Concepts from user stories. Such a model is based on the spaCy language model and trained on the PURE dataset.
 
+You may find the training and validation datasets in the "corpus" folder, including json files and spaCy-based format files.
+
 ## 📋 project.yml
 
 The [`project.yml`](project.yml) defines the data assets required by the
